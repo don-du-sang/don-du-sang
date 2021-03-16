@@ -1,6 +1,6 @@
 # README à améliorer !
 
-<!--<p align="center"><img src=""></p>-->
+<p align="center"><img src="https://i.ibb.co/2qW3dmz/don-du-sang.png"></p>
 
 <h1 align="center">Application PWA Don du Sang <br /><a href="https://don-du-sang.github.io/">https://don-du-sang.github.io/</a></h1>
 
