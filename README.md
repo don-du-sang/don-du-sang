@@ -35,6 +35,7 @@ A faire :
 - Affichage de l'historique des dons
 - Affichage des informations personnelles du compte donneur (lieux favoris, canaux de communications préféré, ...)
 - Tu peux contribuer en créant une issue sur ce repository :)
+- Passage de niveau en fonction du nombre de dons (Apprenti, compagnon, maitre, grand maitre)
 
 Pour réver :
 
