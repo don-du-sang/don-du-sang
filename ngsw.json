@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1615938751821,
-  "index": "/angular-pwa/index.html",
+  "timestamp": 1615939161060,
+  "index": "/don-du-sang/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/angular-pwa/favicon.ico",
-        "/angular-pwa/index.html",
-        "/angular-pwa/main.ab3d8c7302c1253b6be7.js",
-        "/angular-pwa/manifest.webmanifest",
-        "/angular-pwa/polyfills.94daefd414b8355106ab.js",
-        "/angular-pwa/runtime.7b63b9fd40098a2e8207.js",
-        "/angular-pwa/styles.3ff695c00d717f2d2a11.css"
+        "/don-du-sang/favicon.ico",
+        "/don-du-sang/index.html",
+        "/don-du-sang/main.ab3d8c7302c1253b6be7.js",
+        "/don-du-sang/manifest.webmanifest",
+        "/don-du-sang/polyfills.94daefd414b8355106ab.js",
+        "/don-du-sang/runtime.7b63b9fd40098a2e8207.js",
+        "/don-du-sang/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/angular-pwa/assets/icons/icon-128x128.png",
-        "/angular-pwa/assets/icons/icon-144x144.png",
-        "/angular-pwa/assets/icons/icon-152x152.png",
-        "/angular-pwa/assets/icons/icon-192x192.png",
-        "/angular-pwa/assets/icons/icon-384x384.png",
-        "/angular-pwa/assets/icons/icon-512x512.png",
-        "/angular-pwa/assets/icons/icon-72x72.png",
-        "/angular-pwa/assets/icons/icon-96x96.png"
+        "/don-du-sang/assets/icons/icon-128x128.png",
+        "/don-du-sang/assets/icons/icon-144x144.png",
+        "/don-du-sang/assets/icons/icon-152x152.png",
+        "/don-du-sang/assets/icons/icon-192x192.png",
+        "/don-du-sang/assets/icons/icon-384x384.png",
+        "/don-du-sang/assets/icons/icon-512x512.png",
+        "/don-du-sang/assets/icons/icon-72x72.png",
+        "/don-du-sang/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/angular-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/angular-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/angular-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/angular-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/angular-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/angular-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/angular-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/angular-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/angular-pwa/index.html": "35a25139b08918938e6d6fbb94bf5a7413ac71b2",
-    "/angular-pwa/main.ab3d8c7302c1253b6be7.js": "44dedde647affb1f626c33ee44c81ab270ce2ddd",
-    "/angular-pwa/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
-    "/angular-pwa/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
-    "/angular-pwa/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/angular-pwa/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/don-du-sang/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/don-du-sang/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/don-du-sang/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/don-du-sang/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/don-du-sang/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/don-du-sang/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/don-du-sang/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/don-du-sang/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/don-du-sang/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/don-du-sang/index.html": "1933eb1069d49535d181b35e7dfbba8fccdfd361",
+    "/don-du-sang/main.ab3d8c7302c1253b6be7.js": "44dedde647affb1f626c33ee44c81ab270ce2ddd",
+    "/don-du-sang/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
+    "/don-du-sang/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "/don-du-sang/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/don-du-sang/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
