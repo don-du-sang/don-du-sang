@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-	"predeploy": "ng build --prod --base-href=/angular-pwa/",
+	"predeploy": "ng build --prod --base-href=/don-du-sang/",
 	"deploy": "npx gh-pages -d dist/angular-pwa"
   },
   "private": true,
