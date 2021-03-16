@@ -32,8 +32,8 @@ A faire :
 - Connexion sur l'espace donneur
 - Affichage des informations du donneur (groupe sanguin, nombre de dons, par catégories, ...)
 - Prise de rendez-vous pour faire un Don
-- Afficher l'historique des dons
-- Afficher les informations personnels du compte donneur (lieux favoris, canaux de communications préféré, ...)
+- Affichage de l'historique des dons
+- Affichage des informations personnelles du compte donneur (lieux favoris, canaux de communications préféré, ...)
 - Tu peux contribuer en créant une issue sur ce repository :)
 
 Pour réver :
