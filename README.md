@@ -60,10 +60,8 @@ After downloading Node & Npm locally :
 4. Wait ...
 5. Profit!
 6. Contribute !!
-7. 
+
+
 ## Deployment
 
 Push on the `master` branch.
-
-## Contributors & Authors
-Thanks to all
