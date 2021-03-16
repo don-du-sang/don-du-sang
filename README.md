@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://i.ibb.co/2qW3dmz/don-du-sang.png"></p>
 
-<h1 align="center">Application PWA Don du Sang <br /><a href="https://don-du-sang.github.io/">https://don-du-sang.github.io/</a></h1>
+<h1 align="center">Application PWA Don du Sang <br /><a href="https://don-du-sang.github.io/don-du-sang/">https://don-du-sang.github.io/don-du-sang/</a></h1>
 
 <h3 align="center">
 Une solution PWA pour améliorer le service digital de Don du Sang de l'EFS
