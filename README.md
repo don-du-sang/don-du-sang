@@ -34,7 +34,7 @@ A faire :
 - Prise de rendez-vous pour faire un Don
 - Afficher l'historique des dons
 - Afficher les informations personnels du compte donneur (lieux favoris, canaux de communications préféré, ...)
-- 
+- Tu peux contribuer en créant une issue sur ce repository :)
 
 Pour réver :
 
