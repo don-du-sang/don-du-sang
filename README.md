@@ -42,7 +42,7 @@ Pour réver :
 - Pouvoir afficher groupe sanguin sans avoir besoin de dévérouiller le téléphone
 - Inviter des amis pour aller à plusieurs à des don du sang
 
-## Installation
+## Installation [Partie en développement]
 
 ### Prereqs
 
