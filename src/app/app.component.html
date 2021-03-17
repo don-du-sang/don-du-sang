@@ -1,6 +1,6 @@
 <div id="app">
 	<!-- ======= Header ======= -->
-	<header id="header" class="fixed-top d-flex align-items-center header-transparent">
+	<header id="header" class="fixed-top d-flex align-items-center">
 		<div class="container d-flex align-items-center">
 			
 			<!-- <h1 class="logo me-auto"><a href="index.html">Jarvis PO</a></h1> -->
@@ -41,7 +41,7 @@
 			<div class="container d-flex h-100">
 				<div class="row justify-content-center align-self-center" data-aos="fade-up">
 					<div class="col-lg-12 intro-info order-lg-first order-last" data-aos="zoom-in" data-aos-delay="100">
-						<h2>Vous voulez faire un <span>Don ?</span></h2>
+						<h2>Faire un don c'est <span>Simple !</span></h2>
 						<div>
 							<a href="#missions" class="btn-get-started scrollto">Plannifier le Don</a>
 						</div>
@@ -71,7 +71,7 @@
 						<div class="col-md-6 col-lg-6 wow bounceInUp" data-aos="zoom-in" data-aos-delay="100">
 							<div class="box">
 								<div class="icon" style="background: #fceef3;"><i class="fas fa-baby" style="color: #ff689b;"></i></div>
-								<h4 class="title"><a href="">C'est ma première fois / Ca fait longtemps</a></h4>
+								<h4 class="title"><a href="#process">C'est ma première fois / Ca fait longtemps</a></h4>
 								<p class="description">3 étapes : Puis je donner ? > Où ? > Je réserve</p>
 							</div>
 						</div>
@@ -86,7 +86,177 @@
 					</div>
 				</div>
 				
-			</section><!-- End Services Section -->
+			</section>
+			<!-- End Services Section -->
+			
+			<!-- ======= Process Section ======= -->
+			<section id="process" class="missions section-bg">
+				<div class="container" data-aos="fade-up">
+					
+					<header class="section-header">
+						<h3>Puis-je donner ?</h3>
+						<p>Ce formulaire vous permettra de savoir si vous êtes éligible au don</p>
+					</header>
+					
+					<div class="row">
+						
+						<div class="col-md-12  col-lg-12 wow bounceInUP mx-0" data-aos="zoom-in" data-aos-delay="100">
+							<form id="msform">
+								<!-- progressbar -->
+								<ul id="progressbar">
+									<li class="active" id="infirmiere"><strong>1er critère</strong></li>
+									<li id="disease"><strong>Maladies et <br/>infections chroniques</strong></li>
+									<li id="life"><strong>Mode de vie</strong></li>
+									<li id="surgery"><strong>Examens et <br/>opérations chirurgicales</strong></li>
+									<li id="trip"><strong>Voyages et <br/>déplacements</strong></li>
+									<li id="lastVerif"><strong>Dernières <br/>vérifications</strong></li>
+								</ul> <!-- fieldsets -->
+								<fieldset>
+									<div class="form-card">
+										<form class="form">
+											<h2 class="fs-title">1er critère</h2> 
+											<div class="row">
+												<div class="col-lg-12 col-md-12">
+													<!-- Default large shadow-->
+													<div class="card shadow-lg mt-5">
+														<div class="card-body p-5">
+															<h2 class="h5">Votre sexe ?</h2>
+															<p class="font-italic text-muted"></p>
+															<div class="row">															
+																<div class="inputGroup col-lg-6">
+																	<input id="option1" name="option1" type="radio" />
+																	<label for="option1" class="btn-choice"><i class="fas fa-female fa-3x mr-2"></i> Femme</label>
+																</div>
+																<div class="inputGroup col-lg-6">
+																	<input id="option2" name="option1" type="radio"/>
+																	<label for="option2" class="btn-choice"><i class="fas fa-male fa-3x mr-2"></i> Homme</label>
+																</div>
+															</div>
+														</div>
+													</div>
+													
+													<div class="card shadow-lg mt-5">
+														<div class="card-body p-5">
+															<h2 class="h5">Votre âge ?</h2>
+															<p class="font-italic text-muted"></p>
+															<div class="row">
+																<div class="inputGroup col-lg-4">
+																	<input id="option3" name="option2" type="radio"/>
+																	<label for="option3" class="btn-choice-without-icons">- 18 ans</label>
+																</div>
+																<div class="inputGroup col-lg-4">
+																	<input id="option4" name="option2" type="radio"/>
+																	<label for="option4" class="btn-choice-without-icons">18 à 70 ans</label>
+																</div>
+																<div class="inputGroup col-lg-4">
+																	<input id="option5" name="option2" type="radio"/>
+																	<label for="option5" class="btn-choice-without-icons">+ 70 ans</label>
+																</div>
+																
+															</div>
+														</div>
+													</div>
+													
+													<div class="card shadow-lg mt-5">
+														<div class="card-body p-5">
+															<h2 class="h5">Votre poids ?</h2>
+															<p class="font-italic text-muted"></p>
+															<div class="row">
+																<div class="inputGroup col-lg-4">
+																	<input id="option6" name="option3" type="radio"/>
+																	<label for="option6" class="btn-choice-without-icons">- 50kg</label>
+																</div>
+																<div class="inputGroup col-lg-4">
+																	<input id="option7" name="option3" type="radio"/>
+																	<label for="option7" class="btn-choice-without-icons">50kg à 55kg</label>
+																</div>
+																<div class="inputGroup col-lg-4">
+																	<input id="option8" name="option3" type="radio"/>
+																	<label for="option8" class="btn-choice-without-icons">+ 55kg</label>
+																</div>
+															</div>
+														</div>
+													</div>
+													
+													<div class="card shadow-lg mt-5">
+														<div class="card-body p-5">
+															<h2 class="h5">Votre dernier don date de moins de 8 semaines (sang) ou 4 semaines (plaquettes) ou 2 semaines (plasma) ?</h2>
+															<p class="font-italic text-muted"></p>
+															<div class="row">
+																<div class="inputGroup col-lg-6">
+																	<input id="option9" name="option4" type="radio"/>
+																	<label for="option9" class="btn-choice-without-icons">OUI</label>
+																</div>
+																<div class="inputGroup col-lg-6">
+																	<input id="option10" name="option4" type="radio"/>
+																	<label for="option10" class="btn-choice-without-icons">NON</label>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>	
+											</div>
+										</form>
+									</div> 
+									<input type="button" name="next" class="next action-button btn-get-started" value="Next Step" />
+								</fieldset>
+								<fieldset>
+									<div class="form-card">
+										<h2 class="fs-title">Personal Information</h2> <input type="text" name="fname" placeholder="First Name" /> 
+										<input type="text" name="lname" placeholder="Last Name" /> 
+										<input type="text" name="phno" placeholder="Contact No." /> 
+										<input type="text" name="phno_2" placeholder="Alternate Contact No." />
+									</div> 
+									<input type="button" name="previous" class="previous action-button-previous " value="Previous" /> 
+									<input type="button" name="next" class="next action-button" value="Next Step" />
+									</fieldset>
+									<fieldset>
+									<div class="form-card">
+										<h2 class="fs-title">Payment Information</h2>
+										<div class="radio-group">
+											<div class='radio' data-value="credit">
+												<img src="https://i.imgur.com/XzOzVHZ.jpg" width="200px" height="100px">
+											</div>
+											<div class='radio' data-value="paypal">
+												<img src="https://i.imgur.com/jXjwZlj.jpg" width="200px" height="100px">
+											</div> <br>
+										</div> 
+										<label class="pay">Card Holder Name*</label> 
+										<input type="text" name="holdername" placeholder="" />
+										<div class="row">
+											<div class="col-9"> <label class="pay">Card Number*</label> 
+											<input type="text" name="cardno" placeholder="" /> </div>
+											<div class="col-3"> <label class="pay">CVC*</label> 
+											<input type="password" name="cvcpwd" placeholder="***" /> </div>
+										</div>
+										<div class="row">
+											
+										</div>
+									</div> 
+									<input type="button" name="previous" class="previous action-button-previous" value="Previous" /> 
+									<input type="button" name="make_payment" class="next action-button" value="Confirm" />
+								</fieldset>
+								<fieldset>
+									<div class="form-card">
+										<h2 class="fs-title text-center">Success !</h2> <br><br>
+										<div class="row justify-content-center">
+											<div class="col-3"> <img src="https://img.icons8.com/color/96/000000/ok--v2.png" class="fit-image"> </div>
+										</div> <br><br>
+										<div class="row justify-content-center">
+											<div class="col-7 text-center">
+												<h5>You Have Successfully Signed Up</h5>
+											</div>
+										</div>
+										</div>
+									</fieldset>
+								</form>
+							</div>
+							
+						</div>
+				</div>
+				
+			</section><!-- End Process Section -->
+			
 		</main>
 	</div>
 	<!-- ======= Footer ======= -->
