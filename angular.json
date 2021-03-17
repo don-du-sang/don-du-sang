@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-pwa": {
+    "don-du-sang": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/angular-pwa",
+            "outputPath": "dist/don-du-sang",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -68,18 +68,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "angular-pwa:build"
+            "browserTarget": "don-du-sang:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "angular-pwa:build:production"
+              "browserTarget": "don-du-sang:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "angular-pwa:build"
+            "browserTarget": "don-du-sang:build"
           }
         },
         "test": {
@@ -117,16 +117,16 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "angular-pwa:serve"
+            "devServerTarget": "don-du-sang:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "angular-pwa:serve:production"
+              "devServerTarget": "don-du-sang:serve:production"
             }
           }
         }
       }
     }
   },
-  "defaultProject": "angular-pwa"
+  "defaultProject": "don-du-sang"
 }

@@ -8,8 +8,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-	"predeploy": "ng build --prod --base-href=/don-du-sang/",
-	"deploy": "npx gh-pages -d dist/don-du-sang"
+    "predeploy": "ng build --prod --base-href=/don-du-sang/",
+    "deploy": "npx gh-pages -d dist/don-du-sang"
   },
   "private": true,
   "dependencies": {
@@ -22,6 +22,13 @@
     "@angular/platform-browser-dynamic": "~11.2.5",
     "@angular/router": "~11.2.5",
     "@angular/service-worker": "~11.2.5",
+    "angular-datatables": "^11.1.1",
+    "ng-bootstrap": "^1.6.3",
+    "ng2-charts": "^2.4.2",
+    "ngx": "^2.4.0",
+    "ngx-bootstrap": "^6.2.0",
+    "ngx-mask": "^11.1.4",
+    "pagination": "^0.4.6",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
