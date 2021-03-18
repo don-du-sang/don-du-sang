@@ -229,7 +229,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .dropdown ul li {
-	min-width: 200px;
+	min-width: 160px;
 }
 
 .navbar .dropdown ul a {
