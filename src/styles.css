@@ -383,8 +383,10 @@ h1, h2, h3, h4, h5, h6 {
 	width: 100%;
 	height: 100vh;
 	position: relative;
-	/* background: #f5f8fd url("../img/intro-bg.jpg") center top no-repeat; */
-	background-size: cover;
+	background: #f5f8fd url("assets/img/main_bg.png");
+	background-position: 95% 50%;
+	background-size: 60%;
+	background-repeat: no-repeat;
 	padding-top: 110px;
 }
 
@@ -906,6 +908,10 @@ MULTI STEP FORM
 	height:100px;
 	background-color: #f9fafb;
 	padding-top: 35px;
+}
+
+#msform .fa-check {
+	color:green;
 }
 
 .inputGroup {
