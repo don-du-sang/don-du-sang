@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1616026198254,
+  "timestamp": 1616027004790,
   "index": "/don-du-sang/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/don-du-sang/favicon.ico",
         "/don-du-sang/index.html",
-        "/don-du-sang/main.b858f392b475da57e9ae.js",
+        "/don-du-sang/main.b0dafabe1e4b6a8148f0.js",
         "/don-du-sang/manifest.webmanifest",
         "/don-du-sang/polyfills.94daefd414b8355106ab.js",
         "/don-du-sang/runtime.7b63b9fd40098a2e8207.js",
-        "/don-du-sang/styles.d3218ba9716f91e4b495.css"
+        "/don-du-sang/styles.1d2ce60b1533fe37cc8a.css"
       ],
       "patterns": []
     },
@@ -61,13 +61,13 @@
     "/don-du-sang/assets/js/script.js": "ca5348acd638117c845f3a50e6c216910cb1dd29",
     "/don-du-sang/assets/logo/Logo_EFS.svg.png": "40d290a77ba121510271fd24a3eaef2d867943b4",
     "/don-du-sang/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/don-du-sang/index.html": "8b4852ae48a71a68f24e0b882b5df33a1f08eb6b",
-    "/don-du-sang/main.b858f392b475da57e9ae.js": "b53562cdd3a668195780733b823412749fba0895",
+    "/don-du-sang/index.html": "8519ad1681ce70738d5999b21059328273b5c609",
+    "/don-du-sang/main.b0dafabe1e4b6a8148f0.js": "404373ada7b5d069492d5b91129697ed561bb3ac",
     "/don-du-sang/main_bg.8e1938e400ad3b99cd8d.png": "521c33e2d18c45127c8128c4897e1ef244c13af8",
     "/don-du-sang/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
     "/don-du-sang/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "/don-du-sang/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/don-du-sang/styles.d3218ba9716f91e4b495.css": "b474a13af261dba8321d640bb746b6eaea7907e4"
+    "/don-du-sang/styles.1d2ce60b1533fe37cc8a.css": "a39a4ce0408518a926635d351ead8940c9e03164"
   },
   "navigationUrls": [
     {
