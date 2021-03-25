@@ -2,7 +2,7 @@
   "name": "Don du sang",
   "short_name": "Don du sang",
   "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "background_color": "#333333",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
