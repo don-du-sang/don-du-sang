@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1616714601035,
+  "timestamp": 1616715665633,
   "index": "/don-du-sang/index.html",
   "assetGroups": [
     {
@@ -48,14 +48,14 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/don-du-sang/assets/icons/icon-128x128.png": "1b64ae44cd42cc7d843d280745f798d83fef6641",
-    "/don-du-sang/assets/icons/icon-144x144.png": "793b3313757cf89adc5602de69a90dde10402bc9",
-    "/don-du-sang/assets/icons/icon-152x152.png": "63eea2b7e1cd3f74dd4db66dea07e2f32286dd93",
-    "/don-du-sang/assets/icons/icon-192x192.png": "eb2917c132ae638353bd54ed73263aeb79c70601",
-    "/don-du-sang/assets/icons/icon-384x384.png": "120a277dc09dae95f3560a1590b21bf6755ca2c0",
-    "/don-du-sang/assets/icons/icon-512x512.png": "3285d75541144d4102f018dcc5f4f88635c28687",
-    "/don-du-sang/assets/icons/icon-72x72.png": "d18a269bf876d791e455a82478894d8478ae00b7",
-    "/don-du-sang/assets/icons/icon-96x96.png": "f6f54ebece589a7b91f502c267c7d74e59293154",
+    "/don-du-sang/assets/icons/icon-128x128.png": "50924e62cc39c7a2d5b81361ae3df61d90d41fe5",
+    "/don-du-sang/assets/icons/icon-144x144.png": "a41ff1339e0a921248950f0b52604458d3f859ba",
+    "/don-du-sang/assets/icons/icon-152x152.png": "2b28dc4be3edaedffb3acbbeaa5643c920c96941",
+    "/don-du-sang/assets/icons/icon-192x192.png": "bda32413ce17938afb2bfd6d42cd5c56183af086",
+    "/don-du-sang/assets/icons/icon-384x384.png": "47511b46bfe3c5375d2afd83605b9a52f103ba54",
+    "/don-du-sang/assets/icons/icon-512x512.png": "5b534235d41b45633b9779a7ac83d80667a041e8",
+    "/don-du-sang/assets/icons/icon-72x72.png": "b4e54aa8366ed5ac9aedd56b6e9a28679ed56a03",
+    "/don-du-sang/assets/icons/icon-96x96.png": "eace048332a15475b187d055347d1bd1b75cc97c",
     "/don-du-sang/assets/img/main_bg.png": "521c33e2d18c45127c8128c4897e1ef244c13af8",
     "/don-du-sang/assets/js/main.js": "478155afa2364007219b8c0794411a004329cb29",
     "/don-du-sang/assets/js/script.js": "ca5348acd638117c845f3a50e6c216910cb1dd29",
