@@ -25,7 +25,7 @@ Avis personnel : L'application et le site de l'EFS Don du Sang ne permettent pas
 
 Offrir, à travers une application PWA, une expérience utilisateur simple et efficace pour Donner son sang.
 
-## Fonctionnalités principales
+## Fonctionnalités principales [En cours]
 
 A faire : 
 
@@ -42,7 +42,7 @@ Pour réver :
 - Pouvoir afficher groupe sanguin sans avoir besoin de dévérouiller le téléphone
 - Inviter des amis pour aller à plusieurs à des don du sang
 
-## Installation [Partie en développement]
+## Installation [En cours | A ne pas prendre en compte]
 
 ### Prereqs
 
@@ -52,7 +52,7 @@ Pour réver :
 After downloading Node & Npm locally : 
 `npm install `
 
-### Setup instructions
+### Setup instructions [En cours | A ne pas prendre en compte]
 
 1. In the project directory, run `npm install` command.
 2. Run `command` OR `command --open` to skip step 3
