@@ -142,7 +142,7 @@ $(document).ready(function(){
 	let selectHeader = select('#header')
 	if (selectHeader) {
 		const headerScrolled = () => {
-			if (window.scrollY > 100) {
+			if (window.scrollY > 100 && screen.width > 500) {
 				selectHeader.classList.add('header-scrolled')
 				} else {
 				selectHeader.classList.remove('header-scrolled')
@@ -169,28 +169,46 @@ $(document).ready(function(){
 	}
 	
 	/**
+		* Mobile nav top to bottom
+	*/
+	// let header = select('header');
+	// let mediaQuery = window.matchMedia("(max-width: 400px)");
+	
+	// if(window.innerWidth < 992)
+	// {
+		// header.classList.remove("fixed-top");
+		// header.classList.add("fixed-bottom");
+	// }
+	// else
+	// {
+		// header.classList.remove("fixed-bottom");
+		// header.classList.add("fixed-top");
+	// }
+	
+	
+	/**
 		* Mobile nav toggle
 	*/
-	on('click', '.mobile-nav-toggle', function(e) {
+	/*on('click', '.mobile-nav-toggle', function(e) {
 		select('#navbar').classList.toggle('navbar-mobile')
 		this.classList.toggle('bi-list')
 		this.classList.toggle('bi-x')
-	})
+	})*/
 	
 	/**
 		* Mobile nav dropdowns activate
 	*/
-	on('click', '.navbar .dropdown > a', function(e) {
+	/*on('click', '.navbar .dropdown > a', function(e) {
 		if (select('#navbar').classList.contains('navbar-mobile')) {
 			e.preventDefault()
 			this.nextElementSibling.classList.toggle('dropdown-active')
 		}
-	}, true)
+	}, true)*/
 	
 	/**
 		* Scroll with ofset on links with a class name .scrollto
 	*/
-	on('click', '.scrollto', function(e) {
+	/*on('click', '.scrollto', function(e) {
 		if (select(this.hash)) {
 			e.preventDefault()
 			
@@ -203,7 +221,7 @@ $(document).ready(function(){
 			}
 			scrollto(this.hash)
 		}
-	}, true)
+	}, true)*/
 	
 	/**
 		* Scroll with ofset on page load with hash links in the url
